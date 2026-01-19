@@ -1,0 +1,5 @@
+name: AV.Equipments.Runtime
+references: []
+rootNamespace: AV.Equipments
+autoReferenced: true
+

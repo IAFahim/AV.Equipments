@@ -1,0 +1,25 @@
+{
+  "name": "com.av.equipments",
+  "version": "1.0.0",
+  "displayName": "AV Equipments",
+  "description": "Equipment and inventory management system for character gear and item slots.",
+  "unity": "2021.3",
+  "keywords": [
+    "equipment",
+    "inventory",
+    "rpg",
+    "character"
+  ],
+  "author": {
+    "name": "IAFahim",
+    "email": "iafahim.dev@gmail.com",
+    "url": "https://github.com/IAFahim"
+  },
+  "license": "MIT",
+  "category": "Game Tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IAFahim/AV.Equipments"
+  },
+  "licensesUrl": "https://github.com/IAFahim/AV.Equipments/blob/main/LICENSE.md"
+}
